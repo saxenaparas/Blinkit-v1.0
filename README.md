@@ -1,0 +1,1 @@
+The Blinkit-v1.0 is a shopping app built using Kotlin, allowing users to make secure purchases via PhonePe payment integration. It offers features like order tracking and real-time notifications to admins for new orders.
